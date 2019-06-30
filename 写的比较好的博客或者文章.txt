@@ -1,18 +1,23 @@
-idea ͬ�����뵽github
+idea 同步代码到github
 https://www.cnblogs.com/sxdcgaq8080/p/8058898.html
 
 
-idea ��װjdk
+idea 安装jdk
 https://www.cnblogs.com/Knowledge-has-no-limit/p/7234360.html
 
 
-����.gitignore�ļ�������git����Ҫ�ύ���ļ�
-1������Ҫ���� .gitignore �ļ����ļ���, �Ҽ�ѡ��Git Bash ���������У�������Ŀ����Ŀ¼��
+创建.gitignore文件，忽略git不必要提交的文件
+1、在需要创建 .gitignore 文件的文件夹, 右键选择Git Bash 进入命令行，进入项目所在目录。
 
-2������ touch .gitignore �����ɡ�.gitignore���ļ���
+2、输入 touch .gitignore ，生成“.gitignore”文件。
 
-3���򿪡�.gitignore�� �ļ���������Ҫ���Ե��ļ��м����ļ��Ϳ����ˡ���ע���ʽ��
+3、打开”.gitignore” 文件，输入你要忽略的文件夹及其文件就可以了。（注意格式）
 
 
-�ȸ���������ص����϶����������·����
+谷歌浏览器下载的资料都在下面这个路径中
 C:\Users\Administrator\Downloads
+
+
+（美客教育）架构师、高并发、微服务、前端赠品教程：
+
+链接: https://pan.baidu.com/s/1WSlgsJiPQ5miGqeY-exWsQ 提取码: 6yfj 
