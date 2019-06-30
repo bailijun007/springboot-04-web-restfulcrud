@@ -1,0 +1,18 @@
+idea 同步代码到github
+https://www.cnblogs.com/sxdcgaq8080/p/8058898.html
+
+
+idea 安装jdk
+https://www.cnblogs.com/Knowledge-has-no-limit/p/7234360.html
+
+
+创建.gitignore文件，忽略git不必要提交的文件
+1、在需要创建 .gitignore 文件的文件夹, 右键选择Git Bash 进入命令行，进入项目所在目录。
+
+2、输入 touch .gitignore ，生成“.gitignore”文件。
+
+3、打开”.gitignore” 文件，输入你要忽略的文件夹及其文件就可以了。（注意格式）
+
+
+谷歌浏览器下载的资料都在下面这个路径中
+C:\Users\Administrator\Downloads
