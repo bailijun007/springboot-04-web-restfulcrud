@@ -25,3 +25,22 @@ C:\Users\Administrator\Downloads
 链接：https://pan.baidu.com/s/1arUdgtUhsNrE5lKoMq92kQ 
 提取码：c1nr
 
+
+SpringMvc 加载配置.Properties文件中的方法
+方法一：https://blog.csdn.net/fanfanzk1314/article/details/69372567
+方法二：1.在resources 文件夹中编写file.properties
+       2.在springmvc中编写：
+       <bean id="prop" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<list>
+				<value>classpath:file.properties</value>
+			</list>
+		</property>
+	</bean>
+  3.在controller中引用的时候直接这样写，不要用@Autowide：
+   @Value("${ip.local}")
+    private String local;
+  
+  
+
+
