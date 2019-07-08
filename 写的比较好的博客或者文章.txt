@@ -41,6 +41,7 @@ SpringMvc 加载配置.Properties文件中的方法
    @Value("${ip.local}")
     private String local;
   
-  
+  使用spring @Scheduled注解执行定时任务
+  https://blog.csdn.net/sd4000784/article/details/7745947
 
 
