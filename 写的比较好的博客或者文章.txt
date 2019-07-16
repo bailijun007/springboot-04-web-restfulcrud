@@ -44,4 +44,5 @@ SpringMvc 加载配置.Properties文件中的方法
   使用spring @Scheduled注解执行定时任务
   https://blog.csdn.net/sd4000784/article/details/7745947
 
-
+如何在IntelliJ IDEA中使用.ignore插件忽略不必要提交的文件
+https://blog.csdn.net/qq_34590097/article/details/56284935
