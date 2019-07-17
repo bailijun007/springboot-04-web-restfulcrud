@@ -46,3 +46,7 @@ SpringMvc 加载配置.Properties文件中的方法
 
 如何在IntelliJ IDEA中使用.ignore插件忽略不必要提交的文件
 https://blog.csdn.net/qq_34590097/article/details/56284935
+
+idea配置.gitignore后无法起作用
+https://blog.csdn.net/baobaodehao1991/article/details/82151879
+
